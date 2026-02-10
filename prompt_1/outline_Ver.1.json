@@ -1,0 +1,606 @@
+[
+  {
+    "title": "AI学习神器：用户痛点与产品愿景",
+    "children": [
+      {
+        "title": "用户痛点",
+        "children": [
+          {
+            "title": "Prompt调试困难，无法生成系统大纲",
+            "sequence": 1
+          },
+          {
+            "title": "对话框内追问打乱学习节奏与上下文",
+            "sequence": 2
+          },
+          {
+            "title": "多对话框切换低效，记忆互通性差",
+            "sequence": 3
+          },
+          {
+            "title": "对话内容无法系统总结为树状知识",
+            "sequence": 4
+          }
+        ],
+        "sequence": 5
+      },
+      {
+        "title": "AI产品经理诊断与初步方案",
+        "children": [
+          {
+            "title": "核心痛点：线性对话流与结构化知识构建的矛盾",
+            "sequence": 6
+          },
+          {
+            "title": "核心价值：将散点对话重构为非线性知识图谱",
+            "sequence": 7
+          },
+          {
+            "title": "初步评级：值得一试，挑战UI/UX范式革命",
+            "sequence": 8
+          }
+        ],
+        "sequence": 9
+      }
+    ],
+    "sequence": 10
+  },
+  {
+    "title": "MVP产品方案与设计迭代",
+    "children": [
+      {
+        "title": "第一轮MVP方案：AI学习IDE概念",
+        "children": [
+          {
+            "title": "压力测试：懒惰人性、巨头防御、Token成本",
+            "sequence": 11
+          },
+          {
+            "title": "MVP优化方案：动态生成交互式教科书",
+            "children": [
+              {
+                "title": "AI原生模块：多维画布、主干分支分离、ReAct自动化考纲",
+                "sequence": 12
+              },
+              {
+                "title": "功能减法：砍掉社区功能，聚焦核心验证（支线不干扰主线）",
+                "sequence": 13
+              }
+            ],
+            "sequence": 14
+          },
+          {
+            "title": "技术落地路线图：大小模型组合、Neo4j图数据库、数据飞轮",
+            "sequence": 15
+          },
+          {
+            "title": "下一步行动：低代码原型测试（Notion/Obsidian手动模拟）",
+            "sequence": 16
+          }
+        ],
+        "sequence": 17
+      },
+      {
+        "title": "第二轮UI/UX方案：三层动态IDE布局",
+        "children": [
+          {
+            "title": "用户反馈与新问题：期望无限深挖、本地JSON存储、主画布占比",
+            "sequence": 18
+          },
+          {
+            "title": "AI产品经理深入设计：MindWeave学习空间",
+            "children": [
+              {
+                "title": "核心布局：三栏动态IDE结构（知识地图、主场画布、钻研抽屉）",
+                "sequence": 19
+              },
+              {
+                "title": "核心交互：智能路由输入框（Magic Input）",
+                "sequence": 20
+              },
+              {
+                "title": "跨层级视觉关联：锚点链接、上下文呼吸特效",
+                "sequence": 21
+              },
+              {
+                "title": "快捷操作逻辑：减少鼠标操作（Cmd+K, Cmd+J, Cmd+[ / ]）",
+                "sequence": 22
+              },
+              {
+                "title": "信息过载解决方案：自动收纳、主次分明",
+                "sequence": 23
+              }
+            ],
+            "sequence": 24
+          }
+        ],
+        "sequence": 25
+      },
+      {
+        "title": "第三轮布局与交互：无限分裂与两窗模式",
+        "children": [
+          {
+            "title": "布局进化：流式横向画布（River Flow）支持无限追问",
+            "children": [
+              {
+                "title": "卡片层级化与水平位移逻辑",
+                "sequence": 26
+              },
+              {
+                "title": "焦点机制：高亮活跃窗口，因果路径连接",
+                "sequence": 27
+              }
+            ],
+            "sequence": 28
+          },
+          {
+            "title": "知识地图：空间导航站（Minimap，Full Atlas）",
+            "children": [
+              {
+                "title": "双态地图：常驻态（Minimap）、全景态（The Atlas）",
+                "sequence": 29
+              },
+              {
+                "title": "交互式回溯：节点即入口，路径高亮",
+                "sequence": 30
+              }
+            ],
+            "sequence": 31
+          },
+          {
+            "title": "碎片补充窗口：卫星模式（Satellite Window）",
+            "sequence": 32
+          },
+          {
+            "title": "自动化分支管理：智能收缩、单入口识别",
+            "sequence": 33
+          },
+          {
+            "title": "记忆存储：知识元数据（Metadata）与结构化存储",
+            "sequence": 34
+          }
+        ],
+        "sequence": 35
+      },
+      {
+        "title": "第四轮UI/UX：学习机制与反馈",
+        "children": [
+          {
+            "title": "学习机制诊断：因果链式学习与空间化解构",
+            "sequence": 36
+          },
+          {
+            "title": "压力测试：局部深度导致全局迷失、过度依赖、知识碎片固化",
+            "sequence": 37
+          },
+          {
+            "title": "UI交互学习机制优化：收敛触发器、分屏对比",
+            "sequence": 38
+          }
+        ],
+        "sequence": 39
+      },
+      {
+        "title": "第五轮UI/UX：盲点监测与交互",
+        "children": [
+          {
+            "title": "UI/UX深度设计：认知盲点监测",
+            "children": [
+              {
+                "title": "视觉表征：卡片温度与应力系统（边缘应力、连接线震颤）",
+                "sequence": 40
+              },
+              {
+                "title": "盲点触发态：认知雾化（局部雾化、回溯桥接浮窗）",
+                "sequence": 41
+              },
+              {
+                "title": "交互细节：热力图式进度条（Friction Bar）",
+                "sequence": 42
+              },
+              {
+                "title": "辅助干预：思维格式化工具栏（极简例子、可视化、自测）",
+                "sequence": 43
+              },
+              {
+                "title": "盲点复盘记录：知识缺口档案（地图标记、挣扎摘要、对比式复习）",
+                "sequence": 44
+              }
+            ],
+            "sequence": 45
+          },
+          {
+            "title": "用户反馈：剔除视觉干扰、不主动挑战",
+            "sequence": 46
+          }
+        ],
+        "sequence": 47
+      },
+      {
+        "title": "第六轮UI/UX：Ln窗口三向引导",
+        "children": [
+          {
+            "title": "核心价值：建立防溺水引导机制，AI升级为研究路径导航员",
+            "sequence": 48
+          },
+          {
+            "title": "Ln窗口三向引导深度设计",
+            "children": [
+              {
+                "title": "拓扑引导（Horizontal Link）：留在当前卡片",
+                "sequence": 49
+              },
+              {
+                "title": "穿透引导（Vertical Dive）：开启Ln+1卡片",
+                "sequence": 50
+              },
+              {
+                "title": "收敛引导（Convergence Exit）：回到Ln-1或主干",
+                "sequence": 51
+              }
+            ],
+            "sequence": 52
+          },
+          {
+            "title": "压力测试：引导语相关性与视觉权重竞争",
+            "sequence": 53
+          }
+        ],
+        "sequence": 54
+      },
+      {
+        "title": "第七轮UI/UX：界面动态布局与跳转",
+        "children": [
+          {
+            "title": "AI产品经理修正：7:3双窗架构下的视口焦点切换",
+            "children": [
+              {
+                "title": "核心价值：原位回溯机制，动态平衡体",
+                "sequence": 55
+              },
+              {
+                "title": "交互重构：呼吸式双窗切换（前进与后退）",
+                "sequence": 56
+              },
+              {
+                "title": "顶部缩略图：焦点呼吸同步",
+                "sequence": 57
+              }
+            ],
+            "sequence": 58
+          },
+          {
+            "title": "压力测试：无限深度平移、左右Primary视觉歧义",
+            "sequence": 59
+          }
+        ],
+        "sequence": 60
+      },
+      {
+        "title": "第八轮UI/UX：代码与公式排版",
+        "children": [
+          {
+            "title": "AI产品经理修正：7:3比例下的排版红利",
+            "children": [
+              {
+                "title": "代码块排版：从残缺转向预览（迷你行号、语义折行）",
+                "sequence": 61
+              },
+              {
+                "title": "数学公式排版：从遮挡转向缩放（完整显示、温和缩放）",
+                "sequence": 62
+              }
+            ],
+            "sequence": 63
+          },
+          {
+            "title": "交互边界重新锚定：硬阻尼点、信息密度切换",
+            "sequence": 64
+          },
+          {
+            "title": "性能与感知优化：Debounce渲染、视觉对齐",
+            "sequence": 65
+          }
+        ],
+        "sequence": 66
+      }
+    ],
+    "sequence": 67
+  },
+  {
+    "title": "核心工作流：SOP学习流程",
+    "children": [
+      {
+        "title": "AI产品经理重构：模糊意图到结构化契约",
+        "children": [
+          {
+            "title": "核心价值：建立学习契约，降低认知负荷",
+            "sequence": 68
+          },
+          {
+            "title": "启动学习SOP：意图锚定 -> 蓝图生成 -> 路径裁剪 -> 仪式化入场",
+            "children": [
+              {
+                "title": "Step 1: 种子输入与意图对齐（学习意向表单）",
+                "sequence": 69
+              },
+              {
+                "title": "Step 2: 全景蓝图生成（地铁线路图）",
+                "sequence": 70
+              },
+              {
+                "title": "Step 3: 交互式路径确认（剪枝、调序）",
+                "sequence": 71
+              },
+              {
+                "title": "Step 4: 沉浸式入场（俯冲动效）",
+                "sequence": 72
+              }
+            ],
+            "sequence": 73
+          }
+        ],
+        "sequence": 74
+      },
+      {
+        "title": "压力测试：大纲生成速度与用户拒绝",
+        "children": [
+          {
+            "title": "慢生成对策：渐进式渲染、思考中脉动",
+            "sequence": 75
+          },
+          {
+            "title": "拒绝大纲对策：自由探索入口、系统提醒",
+            "sequence": 76
+          }
+        ],
+        "sequence": 77
+      },
+      {
+        "title": "关键模块设计：大纲生成Prompt逻辑",
+        "children": [
+          {
+            "title": "Planning Agent：基于第一性原理的解构",
+            "sequence": 78
+          },
+          {
+            "title": "Prompt架构：角色定义、输入参数、输出约束、教学法原则",
+            "sequence": 79
+          },
+          {
+            "title": "教学法指令：确保非线性可能性（parallel_seeds, dive_in_seeds）",
+            "sequence": 80
+          }
+        ],
+        "sequence": 81
+      }
+    ],
+    "sequence": 82
+  },
+  {
+    "title": "后端逻辑与数据管理",
+    "children": [
+      {
+        "title": "AI产品经理重构：对话框后端逻辑（Orchestration Layer）",
+        "children": [
+          {
+            "title": "核心逻辑概览：上下文路由与状态机闭环",
+            "sequence": 83
+          },
+          {
+            "title": "意图路由引擎：低延迟模型分类（STAY, DIVE, BACK, JUMP, TANGENT）",
+            "sequence": 84
+          },
+          {
+            "title": "上下文工程：树状记忆协议（路径压缩上下文）",
+            "sequence": 85
+          },
+          {
+            "title": "知识地图后端状态机：JSON知识树持久化",
+            "sequence": 86
+          }
+        ],
+        "sequence": 87
+      },
+      {
+        "title": "大纲动态重同步（Manual Modification & Syllabus Re-Sync）",
+        "children": [
+          {
+            "title": "局部语义重新建模：种子刷新任务",
+            "sequence": 88
+          },
+          {
+            "title": "逻辑链条一致性检查：逻辑桥接",
+            "sequence": 89
+          },
+          {
+            "title": "拓扑状态持久化：实时写入study_session.json",
+            "sequence": 90
+          }
+        ],
+        "sequence": 91
+      },
+      {
+        "title": "记忆加载协议（Hierarchical Context Hydration Protocol）",
+        "children": [
+          {
+            "title": "核心目标：快速冷启动UI渲染和AI记忆恢复",
+            "sequence": 92
+          },
+          {
+            "title": "数据存储架构：双层异构存储（Skeleton/Muscle Layer）",
+            "sequence": 93
+          },
+          {
+            "title": "冷启动加载时序：骨架渲染 -> 视口水合 -> 记忆重组",
+            "sequence": 94
+          },
+          {
+            "title": "核心难点：离场总结机制（On-Exit Summarization）",
+            "sequence": 95
+          },
+          {
+            "title": "压力测试：摘要丢失、冷启动后跳回L1",
+            "sequence": 96
+          },
+          {
+            "title": "交互体验：无缝衔接的“开场白”（幽灵提示）",
+            "sequence": 97
+          }
+        ],
+        "sequence": 98
+      },
+      {
+        "title": "本地存储与索引实现方案",
+        "children": [
+          {
+            "title": "架构概览：双层异构存储（IndexedDB Object/Key-Value Store）",
+            "sequence": 99
+          },
+          {
+            "title": "数据库Schema设计：SessionGraph（骨架层）与NodeContent（肌肉层）",
+            "sequence": 100
+          },
+          {
+            "title": "关键性能优化：写入缓冲池（Debounced Flush）",
+            "sequence": 101
+          },
+          {
+            "title": "冷启动加速方案：复合索引与视口预判预加载",
+            "sequence": 102
+          },
+          {
+            "title": "数据安全与导出格式：同源策略、JSON压缩加密",
+            "sequence": 103
+          },
+          {
+            "title": "代码层面实现伪代码",
+            "sequence": 104
+          }
+        ],
+        "sequence": 105
+      }
+    ],
+    "sequence": 106
+  },
+  {
+    "title": "成果输出与分享",
+    "children": [
+      {
+        "title": "AI产品经理定位：个人知识出版中心",
+        "children": [
+          {
+            "title": "核心理念：从对话到人工制品（Smart Compiler）",
+            "sequence": 107
+          },
+          {
+            "title": "导出前置处理：去噪、结构化、格式化",
+            "sequence": 108
+          }
+        ],
+        "sequence": 109
+      },
+      {
+        "title": "导出场景拆解",
+        "children": [
+          {
+            "title": "线性化出版：PDF/Word（Textbook Mode）",
+            "sequence": 110
+          },
+          {
+            "title": "拓扑移植：Markdown/Obsidian（Knowledge Vault）",
+            "sequence": 111
+          },
+          {
+            "title": "记忆切片：Anki/apkg（Memory Card）",
+            "sequence": 112
+          }
+        ],
+        "sequence": 113
+      },
+      {
+        "title": "UI/UX设计：导出面板（成果结算页面）",
+        "children": [
+          {
+            "title": "面板布局与选项：预览区、范围选择、清洗力度、格式卡片",
+            "sequence": 114
+          },
+          {
+            "title": "Loading动效：编译知识图谱动画",
+            "sequence": 115
+          }
+        ],
+        "sequence": 116
+      },
+      {
+        "title": "后端技术方案：Pandoc与AST",
+        "children": [
+          {
+            "title": "中间格式：JSON树转Pandoc AST",
+            "sequence": 117
+          },
+          {
+            "title": "转换管道：AST到LaTeX/CommonMark/Notion API",
+            "sequence": 118
+          }
+        ],
+        "sequence": 119
+      }
+    ],
+    "sequence": 120
+  },
+  {
+    "title": "产品终稿与开发排期",
+    "children": [
+      {
+        "title": "MindWeave V1.0最终产品规格书",
+        "children": [
+          {
+            "title": "核心界面架构：双窗模式、空间交互、边界反馈",
+            "sequence": 121
+          },
+          {
+            "title": "导航系统：顶部缩略图、全景地图、跳转逻辑",
+            "sequence": 122
+          },
+          {
+            "title": "引导与生成：SOP启动、Ln对话引导",
+            "sequence": 123
+          },
+          {
+            "title": "后端大脑：架构、存储、冷启动协议、离场总结",
+            "sequence": 124
+          },
+          {
+            "title": "成果输出：教材编译、记忆切片",
+            "sequence": 125
+          }
+        ],
+        "sequence": 126
+      },
+      {
+        "title": "开发排期指令",
+        "children": [
+          {
+            "title": "Phase 1 (2周)：后端JSON状态机与大纲生成Prompt调试",
+            "sequence": 127
+          },
+          {
+            "title": "Phase 2 (3周)：前端核心攻坚（2-Window挤压动画与正交全景地图）",
+            "sequence": 128
+          },
+          {
+            "title": "Phase 3 (2周)：接入LLM、调试冷启动与上下文压缩",
+            "sequence": 129
+          },
+          {
+            "title": "Phase 4 (1周)：PDF/Anki导出功能",
+            "sequence": 130
+          }
+        ],
+        "sequence": 131
+      }
+    ],
+    "sequence": 132
+  }
+]

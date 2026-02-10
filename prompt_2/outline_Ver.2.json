@@ -1,0 +1,658 @@
+[
+  {
+    "title": "用户初始问题陈述：AI学习工具的痛点与需求",
+    "lines": ["Page1_L_pre_dialogue_1-Page1_L_pre_dialogue_26"]
+  },
+  {
+    "title": "AI对用户痛点的诊断与初步解决方案",
+    "lines": ["Page1_L1-Page1_L3"],
+    "sub_topics": [
+      {
+        "title": "快速诊断（核心问题：线性对话与结构化知识构建矛盾）",
+        "lines": ["Page1_L4-Page1_L6"]
+      },
+      {
+        "title": "压力测试（Prompt调试、对话节奏、知识树构建挑战）",
+        "lines": ["Page1_L7-Page1_L15"]
+      },
+      {
+        "title": "MVP优化方案：多维画布与ReAct自动化考纲",
+        "lines": ["Page1_L16-Page1_L19"]
+      },
+      {
+        "title": "技术落地路线图：大小模型组合、图数据库、数据飞轮",
+        "lines": ["Page1_L20-Page1_L26"]
+      },
+      {
+        "title": "下一步行动建议：低代码原型测试（验证手动非线性跳转）",
+        "lines": ["Page1_L27-Page1_L31"]
+      }
+    ]
+  },
+  {
+    "title": "用户对MVP方案的澄清与追加需求",
+    "lines": ["Page1_L32-Page1_L38"]
+  },
+  {
+    "title": "AI对用户反馈的再诊断与迭代方案",
+    "lines": ["Page2_L1-Page2_L3"],
+    "sub_topics": [
+      {
+        "title": "快速诊断（核心价值：三级嵌套上下文，逻辑闭环）",
+        "lines": ["Page2_L4-Page2_L6"]
+      },
+      {
+        "title": "压力测试（UI/UX认知负荷、社区壁垒、记忆连贯性）",
+        "lines": ["Page2_L7-Page2_L13"]
+      },
+      {
+        "title": "MVP优化方案：状态机驱动进度锚点、覆盖式抽屉",
+        "lines": ["Page2_L14-Page2_L18"]
+      },
+      {
+        "title": "技术落地路线图：语义索引、Summary Post-processing、多模型路由",
+        "lines": ["Page2_L19-Page2_L23"]
+      },
+      {
+        "title": "下一步行动建议：极简交互原型测试（验证三级导航）",
+        "lines": ["Page2_L24-Page2_L31"]
+      }
+    ]
+  },
+  {
+    "title": "用户对交互逻辑的进一步澄清与UI/UX布局选择",
+    "lines": ["Page3_L1-Page3_L4"]
+  },
+  {
+    "title": "AI对用户UI/UX思路的肯定与深度拆解",
+    "lines": ["Page3_L5-Page3_L7"],
+    "sub_topics": [
+      {
+        "title": "UI/UX深度设计：MindWeave学习空间（核心布局：三栏动态IDE架构）",
+        "lines": ["Page3_L8-Page3_L21"]
+      },
+      {
+        "title": "核心交互：智能路由输入框（意图指挥官）",
+        "lines": ["Page3_L22-Page3_L29"]
+      },
+      {
+        "title": "跨层级视觉关联（锚点链接、上下文呼吸特效）",
+        "lines": ["Page3_L30-Page3_L35"]
+      },
+      {
+        "title": "快捷操作逻辑（Shortcut First）",
+        "lines": ["Page3_L36-Page3_L40"]
+      },
+      {
+        "title": "挑战与解决方案：信息过载问题（自动收纳、主次分明）",
+        "lines": ["Page3_L41-Page3_L43"]
+      },
+      {
+        "title": "下一步深入探讨建议（路由算法、上下文管理协议、本地存储）",
+        "lines": ["Page3_L44-Page3_L46"]
+      }
+    ]
+  },
+  {
+    "title": "用户对UI/UX布局的修正与Token管理强调",
+    "lines": ["Page4_L1-Page4_L4"]
+  },
+  {
+    "title": "AI对“AI驱动IDE”概念的肯定与细化",
+    "lines": ["Page4_L5-Page4_L6"],
+    "sub_topics": [
+      {
+        "title": "快速诊断（核心价值：语义路由、结构化上下文）",
+        "lines": ["Page4_L7-Page4_L9"]
+      },
+      {
+        "title": "压力测试（路由精度、Token与幻觉、屏幕空间认知过载）",
+        "lines": ["Page4_L10-Page4_L14"]
+      },
+      {
+        "title": "MVP优化方案：双层路由引擎、影子上下文",
+        "lines": ["Page4_L15-Page4_L20"]
+      },
+      {
+        "title": "技术落地路线图：极致Token工程（上下文面包屑、KV Cache复用）",
+        "lines": ["Page4_L21-Page4_L29"]
+      },
+      {
+        "title": "下一步行动建议：意图分类器压力测试（UI布局参考IDE）",
+        "lines": ["Page4_L30-Page4_L33"]
+      }
+    ]
+  },
+  {
+    "title": "用户对AI提示词的意向与UI布局的进一步修正",
+    "lines": ["Page5_L1-Page5_L4"]
+  },
+  {
+    "title": "AI产品项目文档：MindWeave（AI深度学习IDE）",
+    "lines": ["Page5_L5-Page5_L6"],
+    "sub_topics": [
+      {
+        "title": "项目背景与痛点诊断",
+        "lines": ["Page5_L7-Page5_L12"]
+      },
+      {
+        "title": "产品逻辑架构：三层分流系统",
+        "lines": ["Page5_L13-Page5_L25"]
+      },
+      {
+        "title": "核心功能与AI原生模块（智能路由、动态上下文面包屑、本地记忆）",
+        "lines": ["Page5_L26-Page5_L37"]
+      },
+      {
+        "title": "UI/UX视觉范式（左中右布局、沉浸模式、可视化地图）",
+        "lines": ["Page5_L38-Page5_L42"]
+      },
+      {
+        "title": "技术落地路线图（MVP验证、Token优化、效能飞轮）",
+        "lines": ["Page5_L43-Page5_L47"]
+      }
+    ]
+  },
+  {
+    "title": "用户对“无限追问系统”的强调与地图布局的重构",
+    "lines": ["Page5_L48-Page5_L51"]
+  },
+  {
+    "title": "AI对“无限空间交互”构思的肯定与深度UI/UX设计",
+    "lines": ["Page6_L1-Page6_L3"],
+    "sub_topics": [
+      {
+        "title": "布局进化：流式横向画布（River Flow）",
+        "lines": ["Page6_L4-Page6_L12"]
+      },
+      {
+        "title": "知识地图：空间导航站（Minimap, Atlas, 交互式回溯）",
+        "lines": ["Page6_L13-Page6_L22"]
+      },
+      {
+        "title": "碎片补充窗口：卫星模式（Satellite Window）",
+        "lines": ["Page6_L23-Page6_L27"]
+      },
+      {
+        "title": "交互升级：自动化分支管理（智能收缩、单入口识别）",
+        "lines": ["Page6_L28-Page6_L30"]
+      },
+      {
+        "title": "细节设计：总结文档的动态生成",
+        "lines": ["Page6_L31"]
+      }
+    ]
+  },
+  {
+    "title": "用户对“无限分裂”概念的修正与认知负荷的强调",
+    "lines": ["Page6_L32-Page6_L36"]
+  },
+  {
+    "title": "AI对“因果链式学习机制”的深度评估",
+    "lines": ["Page7_L1-Page7_L3"],
+    "sub_topics": [
+      {
+        "title": "快速诊断（核心机制：空间化解构，潜力无限）",
+        "lines": ["Page7_L4-Page7_L6"]
+      },
+      {
+        "title": "压力测试（局部深度、过度依赖、碎片固化）",
+        "lines": ["Page7_L7-Page7_L13"]
+      },
+      {
+        "title": "基于UI交互的学习机制优化方案（收敛触发器、分屏对比）",
+        "lines": ["Page7_L14-Page7_L26"]
+      },
+      {
+        "title": "下一步深入探讨建议（内化总结：卡片合并、盲点监测）",
+        "lines": ["Page7_L27-Page7_L29"]
+      }
+    ]
+  },
+  {
+    "title": "用户选择“认知盲点监测”作为下一步设计重点",
+    "lines": ["Page7_L30-Page7_L33"]
+  },
+  {
+    "title": "AI对“认知盲点监测”的UI/UX深度设计",
+    "lines": ["Page8_L1-Page8_L3"],
+    "sub_topics": [
+      {
+        "title": "视觉表征：卡片“温度”与“应力”系统（边缘应力、连接线震颤）",
+        "lines": ["Page8_L4-Page8_L14"]
+      },
+      {
+        "title": "盲点触发态：认知雾化（局部雾化、回溯桥接浮窗）",
+        "lines": ["Page8_L15-Page8_L23"]
+      },
+      {
+        "title": "交互细节：热力图式进度条（颜色编码、用户动作）",
+        "lines": ["Page8_L24-Page8_L30"]
+      },
+      {
+        "title": "辅助干预：“思维格式化”工具栏（极简例子、可视化、自测）",
+        "lines": ["Page8_L31-Page8_L35"]
+      },
+      {
+        "title": "盲点复盘记录（地图标记）",
+        "lines": ["Page8_L36-Page8_L38"]
+      }
+    ]
+  },
+  {
+    "title": "用户对“认知盲点监测”UI反馈的反馈（保留应力雾化，拒绝测验）",
+    "lines": ["Page8_L39-Page8_L43"]
+  },
+  {
+    "title": "AI对用户反馈的采纳与进一步细化",
+    "lines": ["Page9_L1-Page9_L3"],
+    "sub_topics": [
+      {
+        "title": "保留“应力、雾化与热力图”的说服理由（认知生物反馈系统）",
+        "lines": ["Page9_L4-Page9_L20"]
+      },
+      {
+        "title": "细化模块：盲点复盘记录（知识缺口档案，挣扎摘要）",
+        "lines": ["Page9_L21-Page9_L28"]
+      },
+      {
+        "title": "用户对模块的进一步精简（移除知识断层、复盘模式）",
+        "lines": ["Page9_L29-Page9_L31"]
+      }
+    ]
+  },
+  {
+    "title": "AI对全景地图视觉语言和防迷宫方案的深度设计",
+    "lines": ["Page10_L1-Page10_L3"],
+    "sub_topics": [
+      {
+        "title": "视觉语言：无限画布上的“逻辑星系”（布局、节点、知识断层）",
+        "lines": ["Page10_L4-Page10_L15"]
+      },
+      {
+        "title": "交互机制：从“看”到“跳”（缩放、定位、路径隔离）",
+        "lines": ["Page10_L16-Page10_L28"]
+      },
+      {
+        "title": "压力测试（长路径溢出、多分支迷宫化）",
+        "lines": ["Page10_L29-Page10_L34"]
+      }
+    ]
+  },
+  {
+    "title": "用户重申简化要求与视觉语言细化",
+    "lines": ["Page10_L35-Page10_L37"]
+  },
+  {
+    "title": "AI确认移除功能并细化全景地图设计",
+    "lines": ["Page11_L1-Page11_L3"],
+    "sub_topics": [
+      {
+        "title": "全景地图视觉语言：正交逻辑布局（Ortho-Logical Blueprint）",
+        "lines": ["Page11_L4-Page11_L10"]
+      },
+      {
+        "title": "深度解决“迷宫化”：动态路径修剪与重力对齐",
+        "lines": ["Page11_L11-Page11_L22"]
+      },
+      {
+        "title": "交互体验：空间感知与瞬时跳转",
+        "lines": ["Page11_L23-Page11_L28"]
+      },
+      {
+        "title": "用户对引导按钮“相关性”失效的质疑（风险1&2）",
+        "lines": ["Page11_L31-Page11_L35"]
+      }
+    ]
+  },
+  {
+    "title": "AI对Ln窗口“三向导航建议”的语义逻辑与交互细节拆解",
+    "lines": ["Page12_L1-Page12_L3"],
+    "sub_topics": [
+      {
+        "title": "快速诊断（核心价值：结构化引导，精准纠偏）",
+        "lines": ["Page12_L4-Page12_L6"]
+      },
+      {
+        "title": "Ln窗口引导模块设计细化（横向、纵向、回溯引导）",
+        "lines": ["Page12_L7-Page12_L19"]
+      },
+      {
+        "title": "压力测试（建议准确性、三栏死板、动态权重）",
+        "lines": ["Page12_L20-Page12_L27"]
+      },
+      {
+        "title": "交互逻辑微调：单入口路由的整合",
+        "lines": ["Page12_L28-Page12_L29"]
+      },
+      {
+        "title": "用户提出的三栏问题交互方案",
+        "lines": ["Page12_L30-Page12_L33"]
+      }
+    ]
+  },
+  {
+    "title": "AI采纳用户方案并深化“语义引导”为“思维导流管”",
+    "lines": ["Page13_L1-Page13_L6"],
+    "sub_topics": [
+      {
+        "title": "快速诊断（核心价值：建立“防溺水”引导机制）",
+        "lines": ["Page13_L4-Page13_L6"]
+      },
+      {
+        "title": "Ln窗口“三向引导”深度设计（拓扑、穿透、收敛引导）",
+        "lines": ["Page13_L7-Page13_L19"]
+      },
+      {
+        "title": "压力测试（风险1:引导语相关性失效；风险2:视觉权重竞争）",
+        "lines": ["Page13_L20-Page13_L24"]
+      },
+      {
+        "title": "交互细节设计（预读机制、快捷输入集成、动态占位）",
+        "lines": ["Page13_L25-Page13_L29"]
+      },
+      {
+        "title": "用户再次强调其三栏问题交互方案",
+        "lines": ["Page13_L30-Page13_L33"]
+      }
+    ]
+  },
+  {
+    "title": "AI对“三路出口交互布局”的深度设计与动态生成逻辑",
+    "lines": ["Page14_L1-Page14_L3"],
+    "sub_topics": [
+      {
+        "title": "布局设计（Anatomy）：平行扩展、深层穿透、逻辑收敛按钮",
+        "lines": ["Page14_L4-Page14_L20"]
+      },
+      {
+        "title": "动态生成逻辑（Content Architecture）：Prompt结构严格区分",
+        "lines": ["Page14_L21-Page14_L25"]
+      },
+      {
+        "title": "极致效率：键盘驱动交互",
+        "lines": ["Page14_L26-Page14_L31"]
+      },
+      {
+        "title": "路径记忆与UI状态同步",
+        "lines": ["Page14_L32"]
+      },
+      {
+        "title": "用户澄清新窗口调用动画逻辑（右进左出，挤压变小）",
+        "lines": ["Page14_L35-Page14_L38"]
+      }
+    ]
+  },
+  {
+    "title": "AI对“传送带式”平移动效的肯定与核心交互设计",
+    "lines": ["Page15_L1-Page15_L3"],
+    "sub_topics": [
+      {
+        "title": "核心交互：右进左出的“挤压平移”（Squeeze & Slide）",
+        "lines": ["Page15_L4-Page15_L18"]
+      },
+      {
+        "title": "逆向逻辑：“逻辑收敛”的回弹（Back-to-Track）",
+        "lines": ["Page15_L19-Page15_L26"]
+      },
+      {
+        "title": "顶部缩略图的同步反馈",
+        "lines": ["Page15_L27-Page15_L30"]
+      },
+      {
+        "title": "极端场景下的UI鲁棒性（快速连击、内容重绘时机）",
+        "lines": ["Page15_L31-Page15_L36"]
+      },
+      {
+        "title": "用户纠正逆向逻辑（返回上一级应调整窗口比例）",
+        "lines": ["Page15_L37-Page15_L39"]
+      }
+    ]
+  },
+  {
+    "title": "AI采纳用户修正，重构“前进/后退”为“呼吸式双窗切换”",
+    "lines": ["Page16_L1-Page16_L6"],
+    "sub_topics": [
+      {
+        "title": "逆向逻辑：回溯（The Back-track）",
+        "lines": ["Page16_L7-Page16_L16"]
+      },
+      {
+        "title": "正向逻辑：再次钻研（The Re-Dive）",
+        "lines": ["Page16_L17-Page16_L21"]
+      },
+      {
+        "title": "顶部缩略图的“焦点呼吸”同步",
+        "lines": ["Page16_L22-Page16_L25"]
+      },
+      {
+        "title": "压力测试（无限深度平移、左右Primary视觉歧义）",
+        "lines": ["Page16_L26-Page16_L32"]
+      }
+    ]
+  },
+  {
+    "title": "用户对“三栏文字引导建议”交互的疑问（触发方式）",
+    "lines": ["Page16_L33-Page16_L36"]
+  },
+  {
+    "title": "AI对“学习契约”SOP的深度设计与启动流程",
+    "lines": ["Page17_L1-Page17_L6"],
+    "sub_topics": [
+      {
+        "title": "快速诊断（核心价值：建立“学习契约”，降低认知负荷）",
+        "lines": ["Page17_L4-Page17_L6"]
+      },
+      {
+        "title": "启动学习的SOP（种子输入、蓝图生成、路径确认、沉浸式入场）",
+        "lines": ["Page17_L7-Page17_L30"]
+      },
+      {
+        "title": "压力测试（大纲生成慢、不想要大纲）",
+        "lines": ["Page17_L31-Page17_L36"]
+      },
+      {
+        "title": "关键模块设计：大纲生成Prompt逻辑",
+        "lines": ["Page17_L37-Page17_L43"]
+      }
+    ]
+  },
+  {
+    "title": "用户关于手动添加知识点的疑问",
+    "lines": ["Page17_L44-Page17_L46"]
+  },
+  {
+    "title": "AI对后端逻辑架构的深度设计（语义编排层）",
+    "lines": ["Page18_L1-Page18_L6"],
+    "sub_topics": [
+      {
+        "title": "核心逻辑概览：上下文路由与状态机（Stateful Router）",
+        "lines": ["Page18_L7-Page18_L12"]
+      },
+      {
+        "title": "意图路由引擎：意图分类协议（Classification Protocol）",
+        "lines": ["Page18_L13-Page18_L20"]
+      },
+      {
+        "title": "上下文工程：树状记忆协议（Tree-Context Protocol）",
+        "lines": ["Page18_L21-Page18_L28"]
+      },
+      {
+        "title": "知识地图后端状态机：JSON知识树",
+        "lines": ["Page18_L29-Page18_L33"]
+      }
+    ]
+  },
+  {
+    "title": "AI对“记忆加载协议”的深度拆解",
+    "lines": ["Page19_L1-Page19_L3"],
+    "sub_topics": [
+      {
+        "title": "模型分层策略（Model Tiering）：路由、推理、总结层",
+        "lines": ["Page19_L4-Page19_L10"]
+      },
+      {
+        "title": "压力测试：后端如何处理“逻辑断裂”？",
+        "lines": ["Page19_L11-Page19_L16"]
+      },
+      {
+        "title": "交互体验：无缝衔接的“开场白”（智能唤醒）",
+        "lines": ["Page19_L17-Page19_L22"]
+      },
+      {
+        "title": "用户对大纲生成Prompt逻辑的疑问（深度、地铁图排版）",
+        "lines": ["Page19_L23-Page19_L27"]
+      }
+    ]
+  },
+  {
+    "title": "AI对“大纲生成Prompt逻辑”的深度设计",
+    "lines": ["Page20_L1-Page20_L3"],
+    "sub_topics": [
+      {
+        "title": "核心逻辑：基于“第一性原理”的解构",
+        "lines": ["Page20_L4-Page20_L11"]
+      },
+      {
+        "title": "Prompt架构设计（System Role, Input Params, Output Schema）",
+        "lines": ["Page20_L12-Page20_L28"]
+      },
+      {
+        "title": "教学法指令：确保“非线性”的可能性（平行扩展、深层穿透）",
+        "lines": ["Page20_L29-Page20_L30"]
+      }
+    ]
+  },
+  {
+    "title": "AI对大纲生成Prompt逻辑的细化（逻辑递进、种子机制、认知负荷）",
+    "lines": ["Page21_L1-Page21_L6"],
+    "sub_topics": [
+      {
+        "title": "压力测试（大纲过长、AI乱编）",
+        "lines": ["Page21_L7-Page21_L12"]
+      },
+      {
+        "title": "技术落地细节（流式JSON解析、状态固化）",
+        "lines": ["Page21_L13-Page21_L18"]
+      },
+      {
+        "title": "用户对大纲手动修改（剪枝、重命名、插入）的疑问",
+        "lines": ["Page21_L19-Page21_L23"]
+      }
+    ]
+  },
+  {
+    "title": "AI对“大纲动态重同步”的后端设计",
+    "lines": ["Page22_L1-Page22_L3"],
+    "sub_topics": [
+      {
+        "title": "后端逻辑：大纲重同步引擎（Re-Sync Engine）",
+        "lines": ["Page22_L4-Page22_L20"]
+      },
+      {
+        "title": "压力测试（不相关节点、Token成本）",
+        "lines": ["Page22_L21-Page22_L28"]
+      },
+      {
+        "title": "技术实现：基于图数据的状态管理",
+        "lines": ["Page22_L29-Page22_L34"]
+      },
+      {
+        "title": "用户请求深入拆解“记忆加载协议”",
+        "lines": ["Page22_L35-Page22_L37"]
+      }
+    ]
+  },
+  {
+    "title": "AI对“记忆加载协议”的深度设计（分级上下文水合协议）",
+    "lines": ["Page23_L1-Page23_L6"],
+    "sub_topics": [
+      {
+        "title": "快速诊断（核心目标：秒开UI、秒级记忆恢复）",
+        "lines": ["Page23_L4-Page23_L6"]
+      },
+      {
+        "title": "数据存储架构：轻重分离（骨架层、肌肉层）",
+        "lines": ["Page23_L7-Page23_L18"]
+      },
+      {
+        "title": "冷启动加载时序（骨架渲染、视口水合、记忆重组）",
+        "lines": ["Page23_L19-Page23_L28"]
+      },
+      {
+        "title": "压力测试（摘要丢失、地图跳回）",
+        "lines": ["Page23_L29-Page23_L35"]
+      },
+      {
+        "title": "用户对“全局设置/偏好”或“导出与分享”模块的讨论意向",
+        "lines": ["Page23_L36-Page23_L40"]
+      }
+    ]
+  },
+  {
+    "title": "AI对“导出与分享”模块的深度设计（智能编译器）",
+    "lines": ["Page24_L1-Page24_L7"],
+    "sub_topics": [
+      {
+        "title": "核心理念：从“对话”到“人工制品”（Smart Compiler）",
+        "lines": ["Page24_L8-Page24_L14"]
+      },
+      {
+        "title": "导出场景拆解：线性化出版（PDF）、拓扑移植（Markdown）、记忆切片（Anki）",
+        "lines": ["Page24_L15-Page24_L38"]
+      }
+    ]
+  },
+  {
+    "title": "AI对“导出与分享”模块的UI/UX设计与后端技术方案",
+    "lines": ["Page25_L1-Page25_L3"],
+    "sub_topics": [
+      {
+        "title": "在线分享：只读版“网页快照” (Web Snapshot)",
+        "lines": ["Page25_L4-Page25_L12"]
+      },
+      {
+        "title": "UI/UX交互设计：导出面板（成果结算页面）",
+        "lines": ["Page25_L13-Page25_L21"]
+      },
+      {
+        "title": "后端技术方案：Pandoc与AST",
+        "lines": ["Page25_L22-Page25_L28"]
+      },
+      {
+        "title": "压力测试（Notion API限流、PDF代码块截断）",
+        "lines": ["Page25_L29-Page25_L34"]
+      },
+      {
+        "title": "用户决定砍掉“在线分享”和“拓扑移植”",
+        "lines": ["Page25_L36-Page25_L37"]
+      }
+    ]
+  },
+  {
+    "title": "AI最终产品设计终稿：MindWeave V1.0产品规格书",
+    "lines": ["Page26_L1-Page26_L5"],
+    "sub_topics": [
+      {
+        "title": "核心界面架构 (The Workspace)：双窗模式、空间交互、边界反馈",
+        "lines": ["Page26_L6-Page26_L15"]
+      },
+      {
+        "title": "导航系统 (The Navigation)：顶部缩略图、全景地图",
+        "lines": ["Page26_L16-Page26_22"]
+      },
+      {
+        "title": "引导与生成 (The Logic Flow)：SOP启动、Ln对话引导、内容生成",
+        "lines": ["Page26_L23-Page26_L27"]
+      },
+      {
+        "title": "后端大脑 (The Kernel)：架构、存储、冷启动协议、离场总结",
+        "lines": ["Page26_L28-Page26_L33"]
+      },
+      {
+        "title": "成果输出 (The Export)：教材编译、记忆切片",
+        "lines": ["Page26_L34-Page26_L39"]
+      }
+    ]
+  }
+]
